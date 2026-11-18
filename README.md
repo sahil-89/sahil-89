@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I’m Sahil Thakur 👋
 
-<!--
-**sahil-89/sahil-89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SDET | QA Automation Engineer** based in Pune, India.
 
-Here are some ideas to get you started:
+I build reliable, maintainable test automation that helps teams ship faster with fewer bugs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **UI automation:** Selenium, TestNG, Page Object Model, BDD (Cucumber)
+- **API testing:** Rest Assured, Postman
+- **Languages:** Java, SQL
+- **Tools and CI/CD:** Git, GitHub Actions, Maven, [Jenkins / Docker]
+
+## 🚀 Featured projects
+- [Project name](link) – short one-line description
+- [Project name](link) – short one-line description
+
+## 📫 Connect
+[LinkedIn](your-link) | [Email](mailto:sahilth.qa@gmail.com)
+
